@@ -1,0 +1,14 @@
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\bin\Debug\net6.0\abbigiamento.exe
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\bin\Debug\net6.0\abbigiamento.deps.json
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\bin\Debug\net6.0\abbigiamento.runtimeconfig.json
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\bin\Debug\net6.0\abbigiamento.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\bin\Debug\net6.0\abbigiamento.pdb
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\abbigiamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\abbigiamento.AssemblyInfoInputs.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\abbigiamento.AssemblyInfo.cs
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\abbigiamento.csproj.CoreCompileInputs.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\abbigiamento.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\refint\abbigiamento.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\abbigiamento.pdb
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\abbigiamento.genruntimeconfig.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\abbigiamento\abbigiamento\obj\Debug\net6.0\ref\abbigiamento.dll
